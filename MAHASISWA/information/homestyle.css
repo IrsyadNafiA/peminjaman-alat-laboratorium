@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    margin-left: 25px;
+}
+
+.nav {
+    padding-top: 20px;
+}
+
+table, th, td{
+    padding-right: 20px;
+}
+
+.logout>p{
+    color: black;
+}
+
+.logout>a{
+    color: black;
+}
+
+.logout>a:hover{
+    color: white;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
